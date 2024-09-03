@@ -1,4 +1,11 @@
-# My Universal React Project
+# Instagram Clone Project
+
+
+As a UI developer, I was inspired to clone the application that has been the biggest distraction in my life. This project is an Instagram clone, built using React Native for cross-platform mobile development, Firebase for backend services like authentication and real-time database, and Formik for form management and validation. The app replicates key features of Instagram, such as user authentication, photo uploading, and the ability to like and comment on posts. This project is a work in progress. I continuously add features as time permits, and since the real app is constantly evolving, I’m always catching up with the latest updates.
+
+
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/df7e11e6-71eb-4870-8f0e-1a2ae67b4c1f">
+
 
 <p>
   <!-- iOS -->
@@ -28,6 +35,8 @@
 ## Running/Modifying Native Code
 
 You can generate native iOS and Android projects from your Expo config file (**app.json**/ **app.config.js**) by runnning `npx expo prebuild`. These native projects can then be compiled and run via XCode and Android Studio.
+
+You can run the application using `npx expo start`
 
 > 💡 Learn more about [native code in Expo](https://docs.expo.dev/workflow/customizing/)
 
